@@ -1,0 +1,21 @@
+.bdy {
+    background-color:#F4A261;
+}
+
+#app-title {
+    text-align:center;
+    font-family: 'Holtwood One SC', serif;
+    margin-top: 20px;
+}
+
+h3 {
+    text-align:center;
+}
+
+.restmenuitems{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
